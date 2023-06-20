@@ -48,7 +48,7 @@ Merci à mailto:saadialbane@gmail.com:[Saadia Albane] pour l'idée du problème 
 * LAST NAME : DOE
 * First name : John
 * TD group : 
-- [X] 1
+- [x] 1
 - [ ] 2
 - [ ] 3
 - [ ] 4
